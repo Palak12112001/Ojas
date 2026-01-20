@@ -56,20 +56,21 @@ This project demonstrates authentication, CRUD operations, and a structured admi
 1. Install **XAMPP**
 2. Clone the repository:
    ```bash
-   https://github.com/Palak12112001/Ojas.git
-3.Move the project folder to: 
+   https://github.com/Palak12112001/Ojas.git 
+3. Move the project folder to: 
     xampp/htdocs
-4.Start Apache and MySQL
-5.Import database from /database folder
-6.Open browser: 
+4. Start Apache and MySQL
+5. Import database from /database folder
+6. Open browser: 
   http://localhost/ojas/admin/
-7.Login with admin credentials
-
+7. Login with admin credentials
+   
 ## 📂 Project Folder Structure
- 📂admin
- 📂assets
- 📂screenshots
- 📂database 
+
+/admin
+/assets
+/screenshots
+/database
 
 ## 👩‍💻 Developed By
 
