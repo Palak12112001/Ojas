@@ -60,16 +60,16 @@ This project demonstrates authentication, CRUD operations, and a structured admi
 3.Move the project folder to: 
     xampp/htdocs
 4.Start Apache and MySQL
-5.Import database from ojas_db.sql file
+5.Import database from /database folder
 6.Open browser: 
   http://localhost/ojas/admin/
 7.Login with admin credentials
 
 ## 📂 Project Folder Structure
-/admin
-/assets
-/screenshots
-ojas_db.sql
+ 📂admin
+ 📂assets
+ 📂screenshots
+ 📂database 
 
 ## 👩‍💻 Developed By
 
