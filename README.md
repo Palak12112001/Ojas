@@ -65,13 +65,13 @@ This project demonstrates authentication, CRUD operations, and a structured admi
   http://localhost/ojas/admin/
 7.Login with admin credentials
 
-##📂 Project Folder Structure
+## 📂 Project Folder Structure
 /admin
 /assets
 /screenshots
 ojas_db.sql
 
-##👩‍💻 Developed By
+## 👩‍💻 Developed By
 
 Kalena Palak
 Web Developer (PHP)
