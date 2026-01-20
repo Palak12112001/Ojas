@@ -1,0 +1,18 @@
+[25-Jun-2024 12:40:25 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '')' at line 2 in /home/ngtdevxy/public_html/ojasdemo/clubhouse/insert.php:54
+Stack trace:
+#0 /home/ngtdevxy/public_html/ojasdemo/clubhouse/insert.php(54): mysqli_query()
+#1 {main}
+  thrown in /home/ngtdevxy/public_html/ojasdemo/clubhouse/insert.php on line 54
+[25-Jun-2024 14:28:53 Asia/Kolkata] PHP Warning:  Undefined array key "committee_member" in /home/ngtdevxy/public_html/ojasdemo/clubhouse/search.php on line 162
+[25-Jun-2024 14:44:53 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ',`full_name`=' Kharabhiya  Kamlesh',`phone`='9879354833',
+        `units`='1',`' at line 2 in /home/ngtdevxy/public_html/ojasdemo/clubhouse/edit.php:89
+Stack trace:
+#0 /home/ngtdevxy/public_html/ojasdemo/clubhouse/edit.php(89): mysqli_query()
+#1 {main}
+  thrown in /home/ngtdevxy/public_html/ojasdemo/clubhouse/edit.php on line 89
+[25-Jun-2024 14:46:25 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ',`full_name`=' Kharabhiya  Kamlesh',`phone`='9879354833',
+        `units`='1',`' at line 2 in /home/ngtdevxy/public_html/ojasdemo/clubhouse/edit.php:89
+Stack trace:
+#0 /home/ngtdevxy/public_html/ojasdemo/clubhouse/edit.php(89): mysqli_query()
+#1 {main}
+  thrown in /home/ngtdevxy/public_html/ojasdemo/clubhouse/edit.php on line 89

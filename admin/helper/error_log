@@ -1,0 +1,37 @@
+[27-Jun-2024 12:42:54 Asia/Kolkata] PHP Warning:  include(insert multiple data): Failed to open stream: No such file or directory in /home/ngtdevxy/public_html/ojasdemo/helper/insert.php on line 2
+[27-Jun-2024 12:42:54 Asia/Kolkata] PHP Warning:  include(): Failed opening 'insert multiple data' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ngtdevxy/public_html/ojasdemo/helper/insert.php on line 2
+[27-Jun-2024 16:14:53 Asia/Kolkata] PHP Warning:  Undefined array key "service" in /home/ngtdevxy/public_html/ojasdemo/helper/insert.php on line 22
+[27-Jun-2024 16:14:53 Asia/Kolkata] PHP Warning:  Undefined array key "name" in /home/ngtdevxy/public_html/ojasdemo/helper/insert.php on line 23
+[27-Jun-2024 16:14:53 Asia/Kolkata] PHP Warning:  Undefined array key "Phone" in /home/ngtdevxy/public_html/ojasdemo/helper/insert.php on line 24
+[27-Jun-2024 16:14:53 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/ngtdevxy/public_html/ojasdemo/helper/insert.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/ngtdevxy/public_html/ojasdemo/helper/insert.php on line 26
+[27-Jun-2024 16:15:50 Asia/Kolkata] PHP Warning:  Undefined array key "service" in /home/ngtdevxy/public_html/ojasdemo/helper/insert.php on line 22
+[27-Jun-2024 16:15:50 Asia/Kolkata] PHP Warning:  Undefined array key "name" in /home/ngtdevxy/public_html/ojasdemo/helper/insert.php on line 23
+[27-Jun-2024 16:15:50 Asia/Kolkata] PHP Warning:  Undefined array key "Phone" in /home/ngtdevxy/public_html/ojasdemo/helper/insert.php on line 24
+[27-Jun-2024 16:15:50 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/ngtdevxy/public_html/ojasdemo/helper/insert.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/ngtdevxy/public_html/ojasdemo/helper/insert.php on line 26
+[27-Jun-2024 16:16:09 Asia/Kolkata] PHP Warning:  Undefined array key "service" in /home/ngtdevxy/public_html/ojasdemo/helper/insert.php on line 22
+[27-Jun-2024 16:16:09 Asia/Kolkata] PHP Warning:  Undefined array key "name" in /home/ngtdevxy/public_html/ojasdemo/helper/insert.php on line 23
+[27-Jun-2024 16:16:09 Asia/Kolkata] PHP Warning:  Undefined array key "Phone" in /home/ngtdevxy/public_html/ojasdemo/helper/insert.php on line 24
+[27-Jun-2024 16:16:09 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/ngtdevxy/public_html/ojasdemo/helper/insert.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/ngtdevxy/public_html/ojasdemo/helper/insert.php on line 26
+[28-Jun-2024 12:36:51 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/ngtdevxy/public_html/ojasdemo/helper/insert.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ngtdevxy/public_html/ojasdemo/helper/insert.php on line 10
+[28-Jun-2024 12:41:35 Asia/Kolkata] PHP Warning:  Undefined array key "service" in /home/ngtdevxy/public_html/ojasdemo/helper/insert.php on line 10
+[28-Jun-2024 12:41:35 Asia/Kolkata] PHP Warning:  Undefined array key "helperName" in /home/ngtdevxy/public_html/ojasdemo/helper/insert.php on line 11
+[28-Jun-2024 12:41:35 Asia/Kolkata] PHP Warning:  Undefined array key "phone" in /home/ngtdevxy/public_html/ojasdemo/helper/insert.php on line 12
+[28-Jun-2024 12:41:35 Asia/Kolkata] PHP Warning:  Undefined array key "service" in /home/ngtdevxy/public_html/ojasdemo/helper/insert.php on line 10
+[28-Jun-2024 12:41:35 Asia/Kolkata] PHP Warning:  Undefined array key "helperName" in /home/ngtdevxy/public_html/ojasdemo/helper/insert.php on line 11
+[28-Jun-2024 12:41:35 Asia/Kolkata] PHP Warning:  Undefined array key "phone" in /home/ngtdevxy/public_html/ojasdemo/helper/insert.php on line 12
+[28-Jun-2024 12:42:58 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/ngtdevxy/public_html/ojasdemo/helper/insert.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ngtdevxy/public_html/ojasdemo/helper/insert.php on line 10

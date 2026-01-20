@@ -1,0 +1,51 @@
+[05-Jul-2024 14:12:57 Asia/Kolkata] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home/ngtdevxy/public_html/ojasdemo/committee-members/reset-password.php on line 2
+[05-Jul-2024 14:12:57 Asia/Kolkata] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ngtdevxy/public_html/ojasdemo/committee-members/reset-password.php on line 2
+[05-Jul-2024 14:13:15 Asia/Kolkata] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home/ngtdevxy/public_html/ojasdemo/committee-members/reset-password.php on line 2
+[05-Jul-2024 14:13:15 Asia/Kolkata] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ngtdevxy/public_html/ojasdemo/committee-members/reset-password.php on line 2
+[05-Jul-2024 14:14:19 Asia/Kolkata] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home/ngtdevxy/public_html/ojasdemo/committee-members/reset-password.php on line 2
+[05-Jul-2024 14:14:19 Asia/Kolkata] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ngtdevxy/public_html/ojasdemo/committee-members/reset-password.php on line 2
+[05-Jul-2024 14:15:26 Asia/Kolkata] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home/ngtdevxy/public_html/ojasdemo/committee-members/reset-password.php on line 2
+[05-Jul-2024 14:15:26 Asia/Kolkata] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ngtdevxy/public_html/ojasdemo/committee-members/reset-password.php on line 2
+[05-Jul-2024 14:15:26 Asia/Kolkata] PHP Warning:  Undefined variable $conn in /home/ngtdevxy/public_html/ojasdemo/committee-members/reset-password.php on line 22
+[05-Jul-2024 14:15:26 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/ngtdevxy/public_html/ojasdemo/committee-members/reset-password.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/ngtdevxy/public_html/ojasdemo/committee-members/reset-password.php on line 22
+[05-Jul-2024 14:15:32 Asia/Kolkata] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home/ngtdevxy/public_html/ojasdemo/committee-members/reset-password.php on line 2
+[05-Jul-2024 14:15:32 Asia/Kolkata] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ngtdevxy/public_html/ojasdemo/committee-members/reset-password.php on line 2
+[05-Jul-2024 14:15:32 Asia/Kolkata] PHP Warning:  Undefined variable $conn in /home/ngtdevxy/public_html/ojasdemo/committee-members/reset-password.php on line 22
+[05-Jul-2024 14:15:32 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/ngtdevxy/public_html/ojasdemo/committee-members/reset-password.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/ngtdevxy/public_html/ojasdemo/committee-members/reset-password.php on line 22
+[05-Jul-2024 14:15:51 Asia/Kolkata] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home/ngtdevxy/public_html/ojasdemo/committee-members/reset-password.php on line 2
+[05-Jul-2024 14:15:51 Asia/Kolkata] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ngtdevxy/public_html/ojasdemo/committee-members/reset-password.php on line 2
+[05-Jul-2024 14:15:51 Asia/Kolkata] PHP Warning:  Undefined variable $conn in /home/ngtdevxy/public_html/ojasdemo/committee-members/reset-password.php on line 22
+[05-Jul-2024 14:15:51 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/ngtdevxy/public_html/ojasdemo/committee-members/reset-password.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/ngtdevxy/public_html/ojasdemo/committee-members/reset-password.php on line 22
+[05-Jul-2024 14:17:31 Asia/Kolkata] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home/ngtdevxy/public_html/ojasdemo/committee-members/reset-password.php on line 2
+[05-Jul-2024 14:17:31 Asia/Kolkata] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ngtdevxy/public_html/ojasdemo/committee-members/reset-password.php on line 2
+[05-Jul-2024 14:17:31 Asia/Kolkata] PHP Warning:  Undefined variable $conn in /home/ngtdevxy/public_html/ojasdemo/committee-members/reset-password.php on line 22
+[05-Jul-2024 14:17:31 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/ngtdevxy/public_html/ojasdemo/committee-members/reset-password.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/ngtdevxy/public_html/ojasdemo/committee-members/reset-password.php on line 22
+[05-Jul-2024 14:19:34 Asia/Kolkata] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home/ngtdevxy/public_html/ojasdemo/committee-members/reset-password.php on line 2
+[05-Jul-2024 14:19:34 Asia/Kolkata] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ngtdevxy/public_html/ojasdemo/committee-members/reset-password.php on line 2
+[05-Jul-2024 14:19:34 Asia/Kolkata] PHP Warning:  Undefined variable $conn in /home/ngtdevxy/public_html/ojasdemo/committee-members/reset-password.php on line 22
+[05-Jul-2024 14:19:34 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/ngtdevxy/public_html/ojasdemo/committee-members/reset-password.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/ngtdevxy/public_html/ojasdemo/committee-members/reset-password.php on line 22
+[05-Jul-2024 14:22:00 Asia/Kolkata] PHP Warning:  Undefined variable $conn in /home/ngtdevxy/public_html/ojasdemo/committee-members/reset-password.php on line 22
+[05-Jul-2024 14:22:00 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/ngtdevxy/public_html/ojasdemo/committee-members/reset-password.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/ngtdevxy/public_html/ojasdemo/committee-members/reset-password.php on line 22
+[05-Jul-2024 14:23:01 Asia/Kolkata] PHP Warning:  Undefined variable $conn in /home/ngtdevxy/public_html/ojasdemo/committee-members/reset-password.php on line 22
+[05-Jul-2024 14:23:01 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/ngtdevxy/public_html/ojasdemo/committee-members/reset-password.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/ngtdevxy/public_html/ojasdemo/committee-members/reset-password.php on line 22

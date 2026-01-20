@@ -1,0 +1,5 @@
+[05-Jul-2024 11:51:34 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'D-603' for key 'tbl_rent_flats.flatno' in /home/ngtdevxy/public_html/ojasdemo/rent-flats/insert.php:37
+Stack trace:
+#0 /home/ngtdevxy/public_html/ojasdemo/rent-flats/insert.php(37): mysqli_query()
+#1 {main}
+  thrown in /home/ngtdevxy/public_html/ojasdemo/rent-flats/insert.php on line 37
